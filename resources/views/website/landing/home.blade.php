@@ -71,8 +71,12 @@
     <!-- ======= End Contact Section ======= -->
   </main><!-- End #main -->
 
+    <!-- ======= Privacy Section ======= -->
+    @include('website.privacypolicy.privacynotif')
+    {{-- @include('website.privacypolicy.notification') --}}
+    <!-- ======= End Privacy Section ======= -->
 
-  <!-- ======= Footer ======= -->
+    <!-- ======= Footer ======= -->
     @include('themes.footer')
   <!-- End Footer -->
 

@@ -45,6 +45,12 @@
 
   @yield('content')
 
+  
+  <!-- ======= Contact Section ======= -->
+  {{-- @include('website.privacypolicy.privacynotif') --}}
+  @include('website.privacypolicy.privacynotif')
+  <!-- ======= End Contact Section ======= -->
+  
   <!-- ======= Footer ======= -->
     @include('themes.footer')
   <!-- End Footer -->
@@ -64,7 +70,24 @@
   
   
   <script type="text/javascript" src="{{ asset('js/main.js') }}"></script>
-  <script type="text/javascript" src="{{ asset('js/main2.js') }}"></script>
+
+  
+
+  {{-- @if( Session::has('has-agreed') )
+      @if( !Session::get('has-agreed') )
+        <!-- Privacy Policy Agree Prompt Modal -->
+        @include('website.privacy-policy.agree_modal')
+        <!-- End of Privacy Policy Agree Prompt Modal -->
+
+        <script>
+          $('#agree-modal').modal({
+            backdrop: 'static',
+            keyboard: false
+          }).show();
+        </script>
+      @endif
+    @endif --}}
+
 
 </body>
 

@@ -219,7 +219,32 @@
    */
   new PureCounter();
 
+const cookieContainer = document.querySelector(".cookie-container");
+const cookieButton = document.querySelector(".cookie-btn");
 
-  
+// Check if the user has already given consent using local storage
+var userConsent = localStorage.getItem('cookie_consent');
+if (userConsent) {
+  cookieContainer .style.display = 'none';
+}
+
+// cookieButton.addEventListener("click", () => {
+//   cookieContainer.classList.remove("active");
+//   localStorage.setItem("cookieBannerDisplayed", "true");
+//   cookieContainer.style.display = 'none';
+// });
+
+// setTimeout(() => {
+//   if (!localStorage.getItem("cookie_consent")) {
+//     cookieContainer.classList.add("active");  
+//   }
+// }, 2000);
+
+cookieButton.addEventListener('click', function() {
+  localStorage.setItem('cookie_consent', 'true');
+  cookieContainer.style.display = 'none';
+  // Store the user's consent in a cookie or session
+});
+
 
 })()

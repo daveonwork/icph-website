@@ -34,5 +34,15 @@ class PagesController extends Controller
     public function services(){
         return view('website.services.services');
     }
+
+    
+    public function privacypolicy(){
+        return view('website.privacy.privacy');
+    }
+
+    public function privacyPolicyAgree(){
+        $cookie = Cookie::forever('privacy-policy-agree', 'value');
+        return redirect ( route('index') )->withCookie($cookie);
+    }
     
 }
