@@ -50,7 +50,7 @@
                 <p>2. </p>
                 </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/departments-1.jpg" alt="" class="img-fluid">
+                <div class="pic"><img src="{{ asset ('img/departments-1.jpg') }}" alt="" class="img-fluid"></div>
                 </div>
             </div>
             </div>
@@ -64,7 +64,7 @@
                 <p>2. </p>
             </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
+                <div class="pic"><img src="{{ asset ('img/internal-physician.jpeg') }}" alt="" class="img-fluid"></div>
                 </div>
             </div>
             </div>
@@ -78,7 +78,7 @@
                 <p>2. </p>
             </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
+                    <div class="pic"><img src="{{ asset ('img/nephrology.jpg') }}" alt="" class="img-fluid"></div>
                 </div>
             </div>
             </div>
@@ -92,7 +92,7 @@
                 <p>2. </p>
             </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
+                    <div class="pic"><img src="{{ asset ('img/neuro.jpg') }}" alt="" class="img-fluid"></div>
                 </div>
             </div>
             </div>
@@ -106,7 +106,7 @@
                 <p>2. </p>
             </div>
                 <div class="col-lg-4 text-center order-1 order-lg-2">
-                <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
+                    <div class="pic"><img src="{{ asset ('img/pedia.jpg') }}" alt="" class="img-fluid"></div>
                 </div>
             </div>
             </div>
@@ -120,7 +120,7 @@
                 <p>2. </p>
             </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
+                        <div class="pic"><img src="{{ asset ('img/obgyne.jpg') }}" alt="" class="img-fluid"></div>
                     </div>
                 </div>
             </div>
@@ -135,7 +135,7 @@
                 
                 </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
+                        <div class="pic"><img src="{{ asset ('img/ortho.jpg') }}" alt="" class="img-fluid"></div>
                     </div>
                 </div>
             </div>
@@ -146,7 +146,7 @@
                     <p class="fst-italic">Our Ophthalmology Department is staffed by a team of skilled ophthalmologists and eye care professionals who specialize in the diagnosis, treatment, and management of a wide range of eye conditions and disorders. We understand the vital role that vision plays in your everyday life, and we are committed to providing personalized and comprehensive eye care services to patients of all ages.</p>
                     </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
+                        <div class="pic"><img src="{{ asset ('img/opthal.jpg') }}" alt="" class="img-fluid"></div>
                     </div>
                 </div>
             </div>
@@ -160,7 +160,7 @@
                 <p>2. </p>
             </div>
                     <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
+                        <div class="pic"><img src="{{ asset ('img/surgery.jpg') }}" alt="" class="img-fluid"></div>
                     </div>
                 </div>
             </div>
