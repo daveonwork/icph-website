@@ -29,6 +29,15 @@
             </div>
 
             </div>
-
+            <section id="load" class="load">
+              <div class="container">
+         
+                  <div class="row justify-content-center">
+                    <div class="col-md-8 text-center heading-section ftco-animate">
+                      <h2> <a href="/doctors" class="appointment-btn scrollto">View More Gallery<i class="bx bx-chevron-right"></i></a> </h2>
+                   </div>
+                </div>	
+              </div>                    
+             </section>
                    </div>
       </section>
