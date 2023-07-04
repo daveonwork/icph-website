@@ -28,14 +28,6 @@
               </div>
             </div>
 
-            <div class="col-lg-6 mt-4">
-              <div class="member d-flex align-items-start">
-                <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
-                  <div class="member-info">
-                  <h4>William Anderson</h4>
-                  <span>Cardiology</span>
-                </div>
-              </div>
             </div>
 
                    </div>
