@@ -44,9 +44,9 @@
 
  <div class="cookie-container">
     <div class="popup-content">
-        <div >
-            <h5 style=”text-align: center;><strong>OUR PRIVACY STATEMENT</strong></h5>
-        </div>
+        
+        <div class="section-title">
+            <h2> OUR PRIVACY STATEMENT </h2>
                 <p>
                 The Immaculate Concepcion Polyclinic & Hospital respects and ensures the privacy and confidentiality of your personal information.
                             <p>Click <a href="/privacypolicy" class="btn btn-link">here</a> to read our full privacy statement.</p>
@@ -58,7 +58,7 @@
                                 </label>
                     </p>
                                  <button type="submit" id="submit"  class="cookie-btn disabled" disabled>I Agree</button>
-       
+                </div>
     </div>
  </div>
     <script>

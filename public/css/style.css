@@ -2154,7 +2154,7 @@ section {
     }
     
     #acceptButton:disabled {
-      opacity: 0.5;
+      opacity: 0.8;
       cursor: not-allowed;
     }
     
@@ -2301,7 +2301,7 @@ section {
           }
 
           .disabled {
-            opacity: 0.7;
+            opacity: 0.9;
             cursor: not-allowed;
           }
 

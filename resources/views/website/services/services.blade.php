@@ -49,7 +49,8 @@
             <h4><a href="">Obstetrics-Gynecology</a></h4>
           </div>
         </div>
-
+      </div>
+      <div class="row">
         <div class="col-sm-4">
           <div class="icon-box">
             <div class="icon"><i class="fas fa-baby"></i></div>
@@ -70,6 +71,7 @@
             <h4><a href="">Surgery</a></h4>
           </div>
         </div>
+      </div>
 
         <div class="col-sm-4">
           <div class="icon-box">
