@@ -1,6 +1,6 @@
 <section id="hero" class="d-flex align-items-center">
     <div class="container">
-      <h1>Welcome to Immaculate<br>Concepcion Polyclinic & Hospital</h1>
+      <h1>Welcome to Immaculate<br>Concepcion Polyclinic <br> & Hospital</h1>
       <a href="#about" class="btn-get-started scrollto">Get Started</a>
     </div>
   </section>
