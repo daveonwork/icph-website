@@ -5,11 +5,11 @@
       <div class="container">
         <div class="row">
 
-          <div class="col-6 col-md-4 text-center footer-contact">
+          {{-- <div class="col-lg-4 col-md-6 text-center footer-contact">
             <a href="index.html" class="logo me-auto"><img src="{{ asset('img/icph.png') }}" alt="" class="img-fluid"></a>
-          </div>
+          </div> --}}
           
-          <div class="col-6 col-md-4 text-center footer-contact">
+          <div class="col-lg-4 col-md-6 mt-5 mt-md-0  footer-contact">
             <h3>Immaculate Concepcion Polyclinic Hospital</h3>
             <p>
               St Jude Village St, <br>
@@ -19,7 +19,7 @@
             </p>
           </div>
      
-          <div class="col-6 col-md-4 text-center footer-links">
+          <div class="col-lg-4 col-md-6 mt-5 mt-lg-0 footer-links">
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
@@ -30,7 +30,7 @@
             </ul>
           </div>
 
-          {{-- <div class="col-6 col-md-4 footer-links">
+          <div class="col-6 col-md-4 footer-links">
             <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
@@ -40,7 +40,7 @@
               <li><i class="bx bx-chevron-right"></i> <a href="#">Doctors</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Contact</a></li>
             </ul>
-          </div> --}}
+          </div>
 
           {{-- <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Join Our Newsletter</h4>

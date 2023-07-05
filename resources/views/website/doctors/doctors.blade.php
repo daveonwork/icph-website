@@ -9,7 +9,7 @@
           <div class="container">
 
               <div class="d-flex justify-content-between align-items-center"  >
-              <h2>Doctors</h2>
+              <h2>Our Doctors</h2>
               <ol>
                   <li><a class="nav-link scrollto active" href="/">Home</a></li>
                   <li>Doctors</li>
@@ -96,17 +96,7 @@
                         </div>
                       </div>
 
-                      <div class="col-6 col-md-4">
-                        <div class="member d-flex align-items-start">
-                          <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
-                          <div class="member-info">
-                            <h4>Gener Apostol, MD</h4>
-                            <span>Anesthesia</span>         
-                          </div>
-                        </div>
-                      </div>
-
-                      <div class="col-6 col-md-4">
+                       <div class="col-6 col-md-4">
                         <div class="member d-flex align-items-start">
                           <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
                           <div class="member-info">
@@ -206,6 +196,17 @@
                           <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
                           <div class="member-info">
                             <h4>Enrique Peña, MD</h4>
+                            <span>Surgery</span>         
+                          </div>
+                        </div>
+                      </div>
+
+
+                      <div class="col-6 col-md-4">
+                        <div class="member d-flex align-items-start">
+                          <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
+                          <div class="member-info">
+                            <h4>Gener Apostol, MD</h4>
                             <span>Surgery</span>         
                           </div>
                         </div>
@@ -313,7 +314,7 @@
                         <div class="member d-flex align-items-start">
                           <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
                           <div class="member-info">
-                            <h4>Wilfreda Calma, MD</h4>
+                            <h4>Wilfredo Calma, MD</h4>
                             <span>Neuro-Psychiatry</span>
                           </div>
                         </div>
@@ -366,7 +367,7 @@
                         <div class="member d-flex align-items-start">
                           <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
                           <div class="member-info">
-                            <h4>Dolores Cuanana, MD</h4>
+                            <h4>Dolores Cuananan, MD</h4>
                             <span>OB-Gyne</span>         
                           </div>
                         </div>
@@ -396,7 +397,7 @@
                         <div class="member d-flex align-items-start">
                           <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
                           <div class="member-info">
-                            <h4>Jonna Louise C. Castro, MD</h4>
+                            <h4>Joanna Louise C. Ines, MD</h4>
                             <span>OB-Gyne</span>         
                           </div>
                         </div>
@@ -485,7 +486,7 @@
                         <div class="member d-flex align-items-start">
                           <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
                           <div class="member-info">
-                            <h4>Lauro Santos, MD</h4>
+                            <h4>Laura Santos, MD</h4>
                             <span>Pediatrician</span>
                           </div>
                         </div>
