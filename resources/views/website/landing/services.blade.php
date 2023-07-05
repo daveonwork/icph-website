@@ -42,21 +42,27 @@
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
+        <span class="sr-only">Previous</span>
       </button>
       <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
+        <span class="sr-only">Next</span>
       </button>
     </div>
 
-    <script>
-      $('.carousel').carousel({
-        interval: 2000
-         })
-      </script>
-
+   
   </div>
+  <section id="load" class="load">
+    <div class="container">
+
+        <div class="row justify-content-center">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <h2> <a href="/services" class="appointment-btn scrollto">View More Services<i class="bx bx-chevron-right"></i></a> </h2>
+         </div>
+      </div>	
+    </div>                    
+   </section>
+         </div>
 
 
   </section><!-- End Services Section -->

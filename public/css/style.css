@@ -2305,5 +2305,7 @@ section {
             cursor: not-allowed;
           }
 
-
+          .carousel-item {
+            transition-duration: 1s;
+          }
         
