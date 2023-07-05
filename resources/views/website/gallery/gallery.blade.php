@@ -94,6 +94,73 @@
               </div>
             </div>
 
+
+
+            <div class="col-lg-3 col-md-4">
+              <div class="gallery-item">
+                <a href="{{ asset ('img/gallery/gallery-9.jpg') }}" class="galelry-lightbox">
+                  <img src="{{ asset ('img/gallery/gallery-9.jpg') }}" alt="" class="img-fluid">
+                </a>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4">
+              <div class="gallery-item">
+                <a href="{{ asset ('img/gallery/gallery-10.jpg') }}" class="galelry-lightbox">
+                  <img src="{{ asset ('img/gallery/gallery-10.jpg') }}" alt="" class="img-fluid">
+                </a>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4">
+              <div class="gallery-item">
+                <a href="{{ asset ('img/gallery/gallery-11.jpg') }}" class="galelry-lightbox">
+                  <img src="{{ asset ('img/gallery/gallery-11.jpg') }}" alt="" class="img-fluid">
+                </a>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4">
+              <div class="gallery-item">
+                <a href="{{ asset ('img/gallery/gallery-12.jpg') }}" class="galelry-lightbox">
+                  <img src="{{ asset ('img/gallery/gallery-12.jpg') }}" alt="" class="img-fluid">
+                </a>
+              </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4">
+              <div class="gallery-item">
+                <a href="{{ asset ('img/gallery/gallery-13.jpg') }}" class="galelry-lightbox">
+                  <img src="{{ asset ('img/gallery/gallery-13.jpg') }}" alt="" class="img-fluid">
+                </a>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4">
+              <div class="gallery-item">
+                <a href="{{ asset ('img/gallery/gallery-14.jpg') }}" class="galelry-lightbox">
+                  <img src="{{ asset ('img/gallery/gallery-14.jpg') }}" alt="" class="img-fluid">
+                </a>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4">
+              <div class="gallery-item">
+                <a href="{{ asset ('img/gallery/gallery-15.jpg') }}" class="galelry-lightbox">
+                  <img src="{{ asset ('img/gallery/gallery-15.jpg') }}" alt="" class="img-fluid">
+                </a>
+              </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4">
+              <div class="gallery-item">
+                <a href="{{ asset ('img/gallery/gallery-16.jpg') }}" class="galelry-lightbox">
+                  <img src="{{ asset ('img/gallery/gallery-16.jpg') }}" alt="" class="img-fluid">
+                </a>
+              </div>
+            </div>
+
           </div>
 
         </div>
