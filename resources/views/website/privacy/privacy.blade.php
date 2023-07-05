@@ -45,10 +45,10 @@
             <div class="container">
 
                 <div class="d-flex justify-content-between align-items-center"  >
-                <h2>Contact Us</h2>
+                <h2>Privacy Policy</h2>
                 <ol>
                     <li><a class="nav-link scrollto active" href="/">Home</a></li>
-                    <li>Contact Us</li>
+                    <li>Privacy Policy</li>
                 </ol>
                 </div>
             </div>
