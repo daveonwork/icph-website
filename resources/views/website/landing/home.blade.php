@@ -45,10 +45,10 @@
     <!-- ======= About Section ======= -->
     @include('website.landing.about')
     </section><!-- End About Section -->
-
+{{-- 
     <!-- ======= Counts Section ======= -->
     @include('website.landing.count')
-    </section><!-- End Counts Section -->
+    </section><!-- End Counts Section --> --}}
 
     <!-- ======= Services Section ======= -->
     @include('website.landing.services')

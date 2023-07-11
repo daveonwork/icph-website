@@ -2,8 +2,8 @@
       <div class="container">
 
         <div class="section-title">
-          <h2>Contact</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Contact Us</h2>
+          <p>Thank you for reaching out to us. We value your feedback, questions, and suggestions. Our dedicated team is here to assist you and provide the support you need. Please don't hesitate to contact us through any of the following channels:</p>
         </div>
       </div>
 

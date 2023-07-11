@@ -32,7 +32,7 @@
 
                             <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
                             <h2><b>Immaculate Concepcion Polyclinic & Hospital</b></h2>
-                            <p>Esse voluptas cumque vel exercitationem. Reiciendis est hic accusamus. Non ipsam et sed minima temporibus laudantium. Soluta voluptate sed facere corporis dolores excepturi. Libero laboriosam sint et id nulla tenetur. Suscipit aut voluptate.</p>
+                            <p>At ICPH, we understand that healthcare needs vary, and that's why we offer a wide range of medical specialties and services under one roof. Whether you require primary care, specialized consultations, diagnostic tests, or preventive screenings, our dedicated team of healthcare professionals is here to meet your needs with expertise and compassion.</p>
 
                             <div class="icon-box">
                                 <div class="icon"><i class="bx bx-donate-heart"></i></div>
