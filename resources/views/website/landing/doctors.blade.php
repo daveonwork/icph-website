@@ -22,8 +22,28 @@
               <div class="member d-flex align-items-start">
                 <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
                 <div class="member-info">
-                  <h4>Estrelita C. Ines</h4>
+                  <h4>Estrellita C. Ines</h4>
                   <span>OB-Gynecology</span>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6 mt-4 mt-lg-0">
+              <div class="member d-flex align-items-start">
+                <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
+                <div class="member-info">
+                  <h4>Benjamin Bengco III, MD</h4>
+                    <span>Surgery</span>  
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-6 mt-4 mt-lg-0">
+              <div class="member d-flex align-items-start">
+                <div class="pic"><img src="{{ asset ('img/doctors/doctors-def.jpg') }}" alt="" class="img-fluid"></div>
+                <div class="member-info">
+                  <h4>Wilfredo Calma, MD</h4>
+                  <span>Neuro-Psychiatry</span>  
                 </div>
               </div>
             </div>

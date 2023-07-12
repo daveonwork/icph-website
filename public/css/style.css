@@ -1285,7 +1285,7 @@ section {
 # Frequently Asked Questions
 --------------------------------------------------------------*/
 .faq .faq-list {
-  padding: 0 100px;
+  padding: 0 10px;
 }
 
 .faq .faq-list ul {
@@ -1294,11 +1294,20 @@ section {
 }
 
 .faq .faq-list li+li {
-  margin-top: 15px;
+  margin-top: 5px;
 }
 
 .faq .faq-list li {
   padding: 20px;
+  font-size: 14px;
+  background: #fff;
+  border-radius: 4px;
+  position: relative;
+}
+
+.faq .faq-list2 li {
+  padding: 20px;
+  font-size: 14px;
   background: #fff;
   border-radius: 4px;
   position: relative;
@@ -1307,7 +1316,7 @@ section {
 .faq .faq-list a {
   display: block;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
@@ -1317,7 +1326,7 @@ section {
 }
 
 .faq .faq-list .icon-help {
-  font-size: 24px;
+  font-size: 14px;
   position: absolute;
   right: 0;
   left: 20px;
@@ -1326,7 +1335,7 @@ section {
 
 .faq .faq-list .icon-show,
 .faq .faq-list .icon-close {
-  font-size: 24px;
+  font-size: 12px;
   position: absolute;
   right: 0;
   top: 0;
@@ -2309,3 +2318,22 @@ section {
             transition-duration: 1s;
           }
         
+          .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            padding-left: 50px; /* Add left padding */
+            grid-gap: 10px;
+          }
+          
+          .grid-item {
+            background-color: #ffffff;
+            padding: 10px;
+          }
+
+          .indented-text {
+            text-indent: 20px;
+          }
+
+          .indented-text2 {
+            text-indent: 40px;
+          }

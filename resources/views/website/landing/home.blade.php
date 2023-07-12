@@ -54,9 +54,9 @@
     @include('website.landing.services')
     </section><!-- End Services Section -->
 
-    <!-- ======= Departments Section ======= -->
+    {{-- <!-- ======= Departments Section ======= -->
     @include('website.landing.departments')
-    </section><!-- End Departments Section -->
+    </section><!-- End Departments Section --> --}}
 
     <!-- ======= Doctors Section ======= -->
     @include('website.landing.doctors')

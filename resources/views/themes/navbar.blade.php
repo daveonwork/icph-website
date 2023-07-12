@@ -11,7 +11,7 @@
           <li><a class="nav-link scrollto" href="/">Home</a></li>
           <li><a class="nav-link scrollto" href="/about">About Us</a></li>
           <li><a class="nav-link scrollto" href="/services">Services</a></li>
-          <li><a class="nav-link scrollto" href="/departments">Departments</a></li>
+          {{-- <li><a class="nav-link scrollto" href="/departments">Departments</a></li> --}}
           <li><a class="nav-link scrollto" href="/doctors">Doctors</a></li>
           <li><a class="nav-link scrollto" href="/gallery">Gallery</a></li>
           <li><a class="nav-link scrollto" href="/contact">Contact Us</a></li>
